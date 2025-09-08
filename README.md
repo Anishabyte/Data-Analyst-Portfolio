@@ -59,6 +59,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ---
 
 ## 📑 Table of Contents
+<sub>
 
 1. [**Project 1:** Sales for Retail and Food Services](https://github.com/anisha-bakshi/project1-sales-retail)  
 2. [**Project 2:** Superstore Sales Dashboard with Streamlit](https://github.com/anisha-bakshi/project2-superstore-dashboard)  
@@ -73,7 +74,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 11. [**Project 11:** Hiring Process Analytics](https://github.com/anisha-bakshi/project11-hiring-analytics)  
 12. [**Project 12:** International Debt Analysis](https://github.com/anisha-bakshi/project12-debt-analysis)  
 
+</sub>
+
 ---
 
-<p align="center">
-  © 2023 Anisha Bakshi. A
+<p align="center"><sub>© 2023 Anisha Bakshi. All rights reserved.</sub></p>
