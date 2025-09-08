@@ -7,8 +7,8 @@
 
 
 ### 🔹 Data Science & ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=ai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-006600?style=for-the-badge)
 ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Processes-444444?style=for-the-badge&logo=apacheairflow&logoColor=white)
