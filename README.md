@@ -46,3 +46,35 @@
 
 
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
+
+
+# 📘 Projects Portfolio
+
+<p align="center">
+  <a href="https://github.com/anisha-bakshi" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link"/>
+  </a>
+</p>
+
+---
+
+## 📑 Table of Contents
+
+1. **Project 1:** Sales for Retail and Food Services  
+2. **Project 2:** Superstore Sales Dashboard with Streamlit  
+3. **Project 3:** Rossman Sales Forecasting  
+4. **Project 4:** Stock Market Trend Analysis  
+5. **Project 5:** Instagram Users Analytics  
+6. **Project 6:** Pizza Sales Analysis  
+7. **Project 7:** Employee Distribution  
+8. **Project 8:** Operational Analytics Study  
+9. **Project 9:** Store Demand Forecasting  
+10. **Project 10:** Product Recommendation  
+11. **Project 11:** Hiring Process Analytics  
+12. **Project 12:** International Debt Analysis  
+
+---
+
+<p align="center">
+  © 2023 Anisha Bakshi. All rights reserved.
+</p>
