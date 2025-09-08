@@ -60,21 +60,20 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## 📑 Table of Contents
 
-1. **Project 1:** Sales for Retail and Food Services  
-2. **Project 2:** Superstore Sales Dashboard with Streamlit  
-3. **Project 3:** Rossman Sales Forecasting  
-4. **Project 4:** Stock Market Trend Analysis  
-5. **Project 5:** Instagram Users Analytics  
-6. **Project 6:** Pizza Sales Analysis  
-7. **Project 7:** Employee Distribution  
-8. **Project 8:** Operational Analytics Study  
-9. **Project 9:** Store Demand Forecasting  
-10. **Project 10:** Product Recommendation  
-11. **Project 11:** Hiring Process Analytics  
-12. **Project 12:** International Debt Analysis  
+1. [**Project 1:** Sales for Retail and Food Services](https://github.com/anisha-bakshi/project1-sales-retail)  
+2. [**Project 2:** Superstore Sales Dashboard with Streamlit](https://github.com/anisha-bakshi/project2-superstore-dashboard)  
+3. [**Project 3:** Rossman Sales Forecasting](https://github.com/anisha-bakshi/project3-rossman-forecasting)  
+4. [**Project 4:** Stock Market Trend Analysis](https://github.com/anisha-bakshi/project4-stock-market)  
+5. [**Project 5:** Instagram Users Analytics](https://github.com/anisha-bakshi/project5-instagram-analytics)  
+6. [**Project 6:** Pizza Sales Analysis](https://github.com/anisha-bakshi/project6-pizza-sales)  
+7. [**Project 7:** Employee Distribution](https://github.com/anisha-bakshi/project7-employee-distribution)  
+8. [**Project 8:** Operational Analytics Study](https://github.com/anisha-bakshi/project8-operational-analytics)  
+9. [**Project 9:** Store Demand Forecasting](https://github.com/anisha-bakshi/project9-demand-forecasting)  
+10. [**Project 10:** Product Recommendation](https://github.com/anisha-bakshi/project10-recommendation-system)  
+11. [**Project 11:** Hiring Process Analytics](https://github.com/anisha-bakshi/project11-hiring-analytics)  
+12. [**Project 12:** International Debt Analysis](https://github.com/anisha-bakshi/project12-debt-analysis)  
 
 ---
 
 <p align="center">
-  © 2023 Anisha Bakshi. All rights reserved.
-</p>
+  © 2023 Anisha Bakshi. A
