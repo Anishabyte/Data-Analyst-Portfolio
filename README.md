@@ -76,4 +76,4 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ---
 
 <p align="center">
-  © 2023 Anisha Bakshi. A
+  © ©2025 Anisha Bakshi. All rights reserved
