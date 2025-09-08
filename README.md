@@ -60,9 +60,9 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## 📑 Table of Contents
 
-1. [**Project 1:** Sales for Retail and Food Services](https://github.com/anisha-bakshi/project1-sales-retail)  
-2. [**Project 2:** Superstore Sales Dashboard with Streamlit](https://github.com/anisha-bakshi/project2-superstore-dashboard)  
-3. [**Project 3:** Rossman Sales Forecasting](https://github.com/anisha-bakshi/project3-rossman-forecasting)  
+1. [**Project 1:** Pizza Sales Analysis](https://github.com/Anishabyte/Pizza_Sales_Analysis)  
+2. [**Project 2:** Credit Card Financial Dashboard](https://github.com/Anishabyte/Credit_Card_Financial_Dashboard)
+3. [**Project 3:** Rossman Sales Forecasting](https://github.com/Anishabyte/Blinkit_Sales_Performance_Analysis)  
 4. [**Project 4:** Stock Market Trend Analysis](https://github.com/anisha-bakshi/project4-stock-market)  
 5. [**Project 5:** Instagram Users Analytics](https://github.com/anisha-bakshi/project5-instagram-analytics)  
 6. [**Project 6:** Pizza Sales Analysis](https://github.com/anisha-bakshi/project6-pizza-sales)  
